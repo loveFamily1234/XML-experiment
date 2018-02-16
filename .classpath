@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="E:/XMLSpy2013/xml所用jar包/crimson.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/XMLSpy2013/xml所用jar包/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
